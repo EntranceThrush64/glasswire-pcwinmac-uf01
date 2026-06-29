@@ -1,4 +1,4 @@
-# 
+# 自定义 GlassWire 脚本 Mac OS版 | 终极 GlassWire 脚本 PC Windows版。集成 数据使用统计 和 漏洞评估，跨平台性能最大化。
 
 
 
